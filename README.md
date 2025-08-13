@@ -2,6 +2,7 @@
 
 A curated list of free AI learning resources, organized by category. Contributions are welcome!
 
+
 ## Categories
 
 - [Generative AI](resources/generative-ai.md)
